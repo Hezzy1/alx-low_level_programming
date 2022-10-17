@@ -1,15 +1,17 @@
 #include <stdio.h>
+
 /**
-   *main-program entry point.
-    *Return:0 no error, non zero if error
-     */
+	* main - Prints the numbers from 0 to 9
+	* Return: 0 (Success)
+	*/
 int main(void)
 {
-	int i;
+		char i;
 
-	for (i = '0'; i <= '9'; i++)
-
+		for (i = '0'; i <= '9'; i++)
+		{
 		putchar(i);
+		}
 		putchar('\n');
 		return (0);
 }
