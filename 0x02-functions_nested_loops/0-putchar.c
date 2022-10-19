@@ -14,6 +14,6 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	_putch(0);
+	_putchar(0);
 	return (0);
 }
