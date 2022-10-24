@@ -3,9 +3,8 @@
 
 /**
 	* main - check the code.
-	* Return: 1 if c is uppercase otherwise return 0.
+	* Return: Always 0.
 	*/
-
 int main(void)
 {
 	char c;
